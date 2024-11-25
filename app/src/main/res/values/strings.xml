@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">unitconv</string>
+    <string-array name="length_conversion_options">
+        <item>Meters to Kilometers</item>
+        <item>Meters to Centimeters</item>
+        <item>Meters to Millimeters</item>
+        <item>Kilometers to Meters</item>
+        <item>Centimeters to Meters</item>
+    </string-array>
+
+
+    <string-array name="weight_conversion_options">
+        <item>Kilograms to Grams</item>
+        <item>Kilograms to Pounds</item>
+        <item>Kilograms to Ounces</item>
+        <item>Pounds to Kilograms</item>
+        <item>Grams to Kilograms</item>
+    </string-array>
+
+
+    <string-array name="temperature_conversion_options">
+        <item>Celsius to Fahrenheit</item>
+        <item>Fahrenheit to Celsius</item>
+        <item>Celsius to Kelvin</item>
+        <item>Kelvin to Celsius</item>
+        <item>Fahrenheit to Kelvin</item>
+        <item>Kelvin to Fahrenheit</item>
+    </string-array>
+
+
+</resources>

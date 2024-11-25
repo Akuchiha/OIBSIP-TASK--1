@@ -1,0 +1,6 @@
+<resources>
+    <color name="blue">#2196F3</color> <!-- Light Blue -->
+    <color name="blue_dark">#1976D2</color> <!-- Darker Blue -->
+    <color name="white">#FFFFFF</color> <!-- White -->
+    <color name="black">#000000</color> <!-- Black for text -->
+</resources>
