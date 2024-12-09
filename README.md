@@ -17,4 +17,4 @@ Technologies Used 🛠️
 Java: Core programming language for the app's logic and functionality.
 XML: Used for designing the UI (layouts, styles, and themes).
 Android Studio: IDE used for development.
-Material Design: For a modern and clean interface.
+
