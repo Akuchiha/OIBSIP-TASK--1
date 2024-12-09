@@ -7,10 +7,12 @@ Features ✨
 
 User-Friendly Interface: Intuitive and clean design for ease of use.
 Wide Range of Units: Convert values between units such as meters to kilometers, Celsius to Fahrenheit, kilograms to pounds, and more.
+
 Real-Time Conversion: Instant results as you input values.
 Category-Based Navigation: Organize conversions by categories (e.g., length, weight, temperature).
+
 Responsive Design: Works on all Android devices, ensuring a smooth experience across different screen sizes.
-Lightweight & Fast: Optimized for speed and minimal resource usage.
+
 
 Technologies Used 🛠️
 
